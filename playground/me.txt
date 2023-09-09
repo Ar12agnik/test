@@ -1,0 +1,5 @@
+{{#user}}
+Name: Agnik Roy
+Skills: python(dsa),django(beginer),mysql,html
+Email: ar12agnik@gmail.com
+{{/user}}
